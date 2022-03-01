@@ -22,7 +22,7 @@ Compiling, Training, and Evaluating the Model
    We followed that by adding a third layer to optimized model, using a Sigmoid 
    Activation Function. The 3rd layer had 100, 50, and 20 neurons respectively.
    
- ![image] (https://github.com/DmanDJs1/Neural_Network_Charity_Analysis/blob/main/Resources/M19_3nodes.PNG?raw=true) 
+ ![image](https://github.com/DmanDJs1/Neural_Network_Charity_Analysis/blob/main/Resources/M19_3nodes.PNG?raw=true) 
 
 ## Summarize/Conclusion
 

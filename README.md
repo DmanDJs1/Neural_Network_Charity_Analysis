@@ -15,12 +15,14 @@ Data Processing
 
 Compiling, Training, and Evaluating the Model
 
-   We began with a model that contained 2 hidden layers and 80 and 30 neurons respectfully. In the optimized model, a third hidden layer was added and the second and 
-   third layers used a sigmoid activation function. These 3 layers had 100, 50, and 20 neurons respectfully.
-   The first step I took was including "NAME" as a feature, which despite seeming arbitrary like the EIN, actually improved the model as organizations that appeaered 
-   often were more likely to be trustworthy and likely to succeed. Secondly, I added another hidden layer, changed the distribution of neurons, and changed the 
-   activation functions of the second and third hidden layers.
-
+   We began with a model that contained 2 hidden layers and 80 and 30 neurons respectively. 
+   
+ ![image]" Pic " 
+   
+   We followed that by adding a third layer to optimized model, using a Sigmoid 
+   Activation Function. The 3rd layer had 100, 50, and 20 neurons respectively.
+   
+ ![image]" Pic " 
 
 ## Summarize/Conclusion
 
